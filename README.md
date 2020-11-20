@@ -1,9 +1,12 @@
 # Simple form for registration
 
-![Screenshot of form](./doc/screenshots/sscr1.png)
+# This is how form look
+![Screenshot of form](./doc/screenshots/scr1.png)
+# User name  validation
 ![Screenshot of form](./doc/screenshots/scr2.png)
-
+# Password Validation
 ![Screenshot of form](./doc/screenshots/scr3.png)
+# Email Validation
 ![Screenshot of form](./doc/screenshots/scr4.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
