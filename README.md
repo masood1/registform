@@ -1,10 +1,10 @@
 # Simple form for registration
 
-![Screenshot of form](scr1.png)
-![Screenshot of form](scr2.png)
+![Screenshot of form](./doc/screenshots/sscr1.png)
+![Screenshot of form](./doc/screenshots/scr2.png)
 
-![Screenshot of form](scr3.png)
-![Screenshot of form](scr4.png)
+![Screenshot of form](./doc/screenshots/scr3.png)
+![Screenshot of form](./doc/screenshots/scr4.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
