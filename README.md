@@ -5,9 +5,10 @@
 # User name  validation
 ![Screenshot of form](./doc/screenshots/scr2.png)
 # Password Validation
-![Screenshot of form](./doc/screenshots/scr3.png)
+![Screenshot of form](./doc/screenshots/sc4.png)
+
 # Email Validation
-![Screenshot of form](./doc/screenshots/scr4.png)
+![Screenshot of form](./doc/screenshots/scr3.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
